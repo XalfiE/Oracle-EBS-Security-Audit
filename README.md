@@ -1,4 +1,6 @@
 #Oracle EBS Security Audit
+Full blog post > https://the-infosec.com/2018/11/06/oracle-ebs-security-auditing/
+
 
 Files in this folder:
 1.Scraper.txt
