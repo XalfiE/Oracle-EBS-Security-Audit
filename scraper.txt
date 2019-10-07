@@ -1083,7 +1083,3 @@ xsql/java/xsql/demo/insertxml/newsstorydemo.html
 xsql/java/xsql/demo/uri/uridemo.html
 xsql/lib/XSQLConfig.xml
 xsql/svg/svgdemo.html
-
-
-
-
