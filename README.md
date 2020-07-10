@@ -14,3 +14,5 @@ A list of default username and password list on the Oracle Application. Match 1:
 
 
 Feel free to add to PR or tweet me @emenalf to contribute to the list
+
+If this has helped you in any way feel free to buy me a coffee https://www.buymeacoffee.com/alfie
